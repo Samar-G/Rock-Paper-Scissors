@@ -30,7 +30,7 @@ scissors = '''
 '''
 
 figures = [rock, paper, scissors]
-# print("Type 0 for Rock, 1 for Paper, or 2 for Scissors:")
+
 user = int(input("Type 0 for Rock, 1 for Paper, or 2 for Scissors:"))
 print(figures[user])
 
